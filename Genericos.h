@@ -1,0 +1,6 @@
+#ifndef GENERICOS_H_INCLUDED
+#define GENERICOS_H_INCLUDED
+
+void*
+
+#endif // GENERICOS_H_INCLUDED

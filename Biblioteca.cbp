@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Genericos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Genericos.h" />
 		<Unit filename="Recursividad.c">
 			<Option compilerVar="CC" />
 		</Unit>
